@@ -1,5 +1,5 @@
 keras-autodoc==0.4.1
-Markdown==3.2.1
+Markdown==3.8.1
 mkdocs==1.1
 mkdocs-material==4.6.3
 mkdocs-minify-plugin==0.2.1
